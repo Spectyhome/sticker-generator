@@ -11,6 +11,8 @@
 
 - Python 3.8
 - Flask (для REST API)
+- HTML
+- JavaScript
 
 ## ⚙️ Установка и запуск
 
