@@ -10,7 +10,7 @@
 ## 🛠 Используемые технологии
 
 - Python 3.8
-- Flask (для REST API)
+- Flask
 - HTML
 - JavaScript
 
