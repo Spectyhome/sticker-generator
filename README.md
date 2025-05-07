@@ -18,7 +18,7 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/"username"/sticker-generator.git
+git clone https://github.com/Spectyhome/sticker-generator.git
 cd sticker-generator
 
 # Установите зависимости
